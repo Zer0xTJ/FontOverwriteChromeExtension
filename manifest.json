@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Font Overwrite",
+    "version": "1.0",
+    "description": "Overwrites the font of a webpage with a custom font.",
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "content_scripts": [
+        {
+            "js": [
+                "scripts/content.js"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
+    ]
+}
