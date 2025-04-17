@@ -1,4 +1,4 @@
-You need to install Noto Sans Arabic Font to make it run
+You need to install `Noto Sans Arabic` Font to make it run
 
 
 font overwrite for:
