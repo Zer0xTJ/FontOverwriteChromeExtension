@@ -1,6 +1,12 @@
 const whitelist = [
     "x.com",
+    "www.x.com",
+
     "web.whatsapp.com",
+    "www.web.whatsapp.com",
+
+    "linkedin.com",
+    "www.linkedin.com",
 ];
 
 const host = window.location.host;
