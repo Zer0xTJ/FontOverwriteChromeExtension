@@ -7,6 +7,9 @@ const whitelist = [
 
     "linkedin.com",
     "www.linkedin.com",
+
+    "chatgpt.com",
+    "www.chatgpt.com",
 ];
 
 const host = window.location.host;
